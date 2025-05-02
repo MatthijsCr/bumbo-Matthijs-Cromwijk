@@ -4,6 +4,10 @@
 
 <br />
 
+voor het testen als nodig kunnen de volgende inloggegevens gebruikt worden
+email = john.doe@example.com
+wachtwoord = qwer1234
+
 ## 📄 Inhoud
 1. [Uitleg](#-uitleg)
 2. [Trello](#-trello)
